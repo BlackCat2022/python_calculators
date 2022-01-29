@@ -1,2 +1,2 @@
 # python_calculators
-Simple calculators
+Simple calculators designed for use in python
